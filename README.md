@@ -36,7 +36,7 @@ Selenium <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <i
 
 * selenium-recaptcha-solver (Optional): A library for solving captchas (not used in this specific code, but included for reference). 
   ```sh
-  pip install selenium
+  pip install selenium-recaptcha-solver
 
 Note: This library's functionality may be unreliable and may not always work due to security updates.
 
