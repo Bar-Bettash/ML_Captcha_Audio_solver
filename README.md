@@ -1,4 +1,4 @@
-# Automatic reCaptcha Solver
+# Machine Learning Automatic reCaptcha Solver
 
 <h1 align="center">Bar Bettash </h1>
 <p align="center">
